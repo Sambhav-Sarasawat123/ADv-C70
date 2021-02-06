@@ -1,0 +1,52 @@
+#my_navbar{
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+.text-mytext{
+    color: #2e2e2e;
+}
+.travel-mainDiv{
+    border: 1px solid #00AAFF;
+    padding: 5px;
+    float: none;
+}
+.travel-mainDiv > img{
+    width: 100%;
+}
+.travel-mainDiv > hr{
+    width: 230px;
+}
+.travel-mainDiv >h5, p{
+    margin-left: 20px;
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.movie_head > i{
+    float: right;
+}
+.book{
+    cursor: pointer;
+    text-align: center;
+}
+.book > hr{
+    margin-bottom: 10px;
+}
+.modal-content{
+    margin-top: 100px;
+}
+.img_modal{
+    display: inline-block;
+}
+.p_modal{
+    margin-top: 10px;
+}
+.modal-body{
+    text-align: center;
+}
